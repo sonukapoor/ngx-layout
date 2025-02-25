@@ -18,3 +18,5 @@ export * from '@ngbracket/ngx-layout/grid';
 // Flex-Layout Module
 export * from './module';
 export * from './version';
+// Stand alone directives
+export { DefaultLayoutDirective } from './flex/layout/layout';
